@@ -1,0 +1,39 @@
+## Phần 4: Học framework và kiểm thử
+
+### Ngày 46-48: Học framework (Django/Flask)
+- **Lý thuyết**:
+  - Giới thiệu về framework Django hoặc Flask.
+  - Cài đặt và thiết lập dự án ban đầu.
+  - Cấu trúc dự án trong Django/Flask.
+  - Xây dựng một ứng dụng web cơ bản.
+- **Bài tập**: Tạo một trang web đơn giản hiển thị thông tin cá nhân, thêm chức năng đăng nhập, đăng ký người dùng.
+
+### Ngày 49-51: Asynchronous Programming
+- **Lý thuyết**:
+  - Giới thiệu về lập trình bất đồng bộ.
+  - Các thư viện và framework: gevent, aiohttp, Tornado, Sanic, FastAPI.
+- **Bài tập**: Viết một ứng dụng web đơn giản sử dụng FastAPI.
+
+### Ngày 52-54: Package Managers
+- **Lý thuyết**:
+  - PyPI, Pip, Conda: Giới thiệu và cách sử dụng.
+- **Bài tập**: Cài đặt và sử dụng các package khác nhau trong dự án Python.
+
+### Ngày 55-57: Testing Tools
+- **Lý thuyết**:
+  - unittest/pyUnit, pytest, doctest, nose: Giới thiệu và cách sử dụng.
+- **Bài tập**: Viết test case sử dụng các công cụ kiểm thử khác nhau.
+
+### Ngày 58-60: Debugging và tối ưu hóa mã
+- **Lý thuyết**:
+  - Khái niệm về debugging.
+  - Sử dụng công cụ debugging của IDE.
+  - Tối ưu hóa mã: phân tích hiệu năng và tối ưu hóa.
+- **Bài tập**: Debug một chương trình lỗi, tối ưu hóa thuật toán sắp xếp.
+
+### Ngày 61-63: Synchronous Programming
+- **Lý thuyết**:
+  - Giới thiệu về lập trình đồng bộ.
+  - So sánh giữa lập trình đồng bộ và bất đồng bộ.
+  - Các thư viện và framework phổ biến.
+- **Bài tập**: Viết một ứng dụng sử dụng lập trình đồng bộ.

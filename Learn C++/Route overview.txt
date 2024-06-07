@@ -1,0 +1,203 @@
+### Tổng quan lộ trình:
+
+- **Phần 1: Cơ bản về C++** (Ngày 1-6)
+- **Phần 2: Kỹ thuật lập trình nâng cao** (Ngày 7-12)
+- **Phần 3: Lập trình hướng đối tượng (OOP)** (Ngày 13-19)
+- **Phần 4: Các tính năng nâng cao của C++** (Ngày 20-26)
+- **Phần 5: Thư viện chuẩn C++ và STL** (Ngày 27-30)
+- **Phần 6: Lập trình nâng cao** (Ngày 31-38)
+- **Phần 7: Hoàn thiện và nâng cao** (Ngày 39-42)
+- **Phần 8: Các mô hình thiết kế phổ biến** (Ngày 43-50)
+- **Phần 9: Debug và Các công cụ Debug** (Ngày 51-58)
+- **Phần 10: Công cụ Build và Quản lý Thư viện** (Ngày 59-66)
+- **Phần 11: Tổng hợp và Ôn tập** (Ngày 67-70)
+
+### Phần 1: Cơ bản về C++
+
+#### Ngày 1-2: Giới thiệu về C++
+- **Lý thuyết**: 
+  - Khái niệm cơ bản về C++.
+  - Lý do nên học C++.
+  - So sánh C và C++.
+- **Bài tập**: Viết chương trình C++ đơn giản in ra "Hello, World!".
+
+#### Ngày 3-4: Các phép toán cơ bản và biến
+- **Lý thuyết**:
+  - Biến và kiểu dữ liệu.
+  - Toán tử số học và gán.
+- **Bài tập**: Viết chương trình tính toán cơ bản như cộng, trừ, nhân, chia.
+
+#### Ngày 5-6: Cấu trúc điều khiển
+- **Lý thuyết**:
+  - Cấu trúc điều kiện: if, else if, else.
+  - Vòng lặp: for, while, do-while.
+- **Bài tập**: Viết chương trình kiểm tra số nguyên tố và tính tổng các số từ 1 đến n.
+
+### Phần 2: Kỹ thuật lập trình nâng cao
+
+#### Ngày 7-8: Hàm và phạm vi
+- **Lý thuyết**:
+  - Khai báo và định nghĩa hàm.
+  - Tham số và giá trị trả về.
+  - Phạm vi biến và phạm vi hàm.
+- **Bài tập**: Viết chương trình sử dụng hàm để tính giai thừa và Fibonacci.
+
+#### Ngày 9-10: Con trỏ và mảng
+- **Lý thuyết**:
+  - Khái niệm con trỏ.
+  - Các thao tác cơ bản với con trỏ.
+  - Mảng và con trỏ.
+- **Bài tập**: Viết chương trình quản lý danh sách sinh viên sử dụng mảng và con trỏ.
+
+#### Ngày 11-12: Chuỗi ký tự và thư viện chuẩn
+- **Lý thuyết**:
+  - Chuỗi ký tự trong C++.
+  - Các hàm thao tác với chuỗi.
+  - Thư viện chuẩn C++.
+- **Bài tập**: Viết chương trình kiểm tra palindrome và đếm số lần xuất hiện của ký tự trong chuỗi.
+
+### Phần 3: Lập trình hướng đối tượng (OOP)
+
+#### Ngày 13-14: Khái niệm cơ bản về OOP
+- **Lý thuyết**:
+  - Khái niệm lớp và đối tượng.
+  - Tính đóng gói và tính trừu tượng.
+- **Bài tập**: Viết lớp `Student` với các thuộc tính và phương thức cơ bản.
+
+#### Ngày 15-16: Tính kế thừa
+- **Lý thuyết**:
+  - Khái niệm kế thừa.
+  - Các loại kế thừa: đơn, đa kế thừa.
+- **Bài tập**: Viết lớp kế thừa từ lớp `Student` để tạo lớp `GraduateStudent`.
+
+#### Ngày 17-19: Tính đa hình và nạp chồng
+- **Lý thuyết**:
+  - Khái niệm đa hình.
+  - Hàm ảo và lớp trừu tượng.
+  - Nạp chồng hàm và toán tử.
+- **Bài tập**: Viết chương trình sử dụng đa hình và nạp chồng để quản lý hình học (hình tròn, hình chữ nhật).
+
+### Phần 4: Các tính năng nâng cao của C++
+
+#### Ngày 20-21: Template và Generic Programming
+- **Lý thuyết**:
+  - Khái niệm template.
+  - Hàm và lớp template.
+- **Bài tập**: Viết hàm template cho các phép toán cơ bản và lớp template cho stack.
+
+#### Ngày 22-23: Exception Handling
+- **Lý thuyết**:
+  - Khái niệm xử lý ngoại lệ.
+  - Các từ khóa try, catch, throw.
+- **Bài tập**: Viết chương trình xử lý ngoại lệ khi chia cho số 0.
+
+#### Ngày 24-26: Smart Pointers và Quản lý bộ nhớ
+- **Lý thuyết**:
+  - Con trỏ thông minh: `unique_ptr`, `shared_ptr`, `weak_ptr`.
+  - Quản lý bộ nhớ và vòng đời đối tượng.
+- **Bài tập**: Viết chương trình quản lý đối tượng sử dụng con trỏ thông minh.
+
+### Phần 5: Thư viện chuẩn C++ và STL
+
+#### Ngày 27-28: Containers
+- **Lý thuyết**:
+  - Các loại container trong STL: vector, list, map, set.
+- **Bài tập**: Viết chương trình sử dụng các container để quản lý danh sách sinh viên và điểm số.
+
+#### Ngày 29-30: Iterators và Algorithms
+- **Lý thuyết**:
+  - Bộ lặp trong STL.
+  - Các thuật toán phổ biến trong STL.
+- **Bài tập**: Viết chương trình sử dụng iterators và algorithms để sắp xếp và tìm kiếm trong container.
+
+### Phần 6: Lập trình nâng cao
+
+#### Ngày 31-33: Lập trình hàm (Functional Programming)
+- **Lý thuyết**:
+  - Khái niệm lập trình hàm.
+  - Lambda expressions.
+  - Hàm higher-order.
+- **Bài tập**: Viết chương trình sử dụng lambda expressions để xử lý dữ liệu trong vector.
+
+#### Ngày 34-35: Multithreading và Concurrency
+- **Lý thuyết**:
+  - Lập trình đa luồng.
+  - Quản lý thread và đồng bộ hóa.
+- **Bài tập**: Viết chương trình sử dụng nhiều thread để thực hiện tính toán song song.
+
+#### Ngày 36-38: Metaprogramming và Template Metaprogramming (TMP)
+- **Lý thuyết**:
+  - Khái niệm metaprogramming.
+  - TMP trong C++.
+- **Bài tập**: Viết chương trình sử dụng TMP để tạo ra các hàm tính toán compile-time.
+
+### Phần 7: Hoàn thiện và nâng cao
+
+#### Ngày 39-40: Thiết kế Hướng đối tượng và Nguyên lý SOLID
+- **Lý thuyết**:
+  - Nguyên lý SOLID.
+  - Các nguyên lý thiết kế phần mềm.
+- **Bài tập**: Viết chương trình áp dụng nguyên lý SOLID vào một dự án nhỏ.
+
+#### Ngày 41-42: Thiết kế Mẫu (Design Patterns)
+- **Lý thuyết**:
+  - Các mẫu thiết kế phổ biến: Singleton, Factory, Observer.
+- **Bài tập**: Viết chương trình sử dụng các mẫu thiết kế để giải quyết các bài toán cụ thể.
+
+### Phần 8: Các mô hình thiết kế phổ biến
+
+#### Ngày 43-45: Creational Design Patterns
+- **Lý thuyết**:
+  - Mẫu thiết kế tạo dựng: Singleton, Factory, Abstract Factory.
+- **Bài tập**: Viết chương trình sử dụng các mẫu thiết kế tạo dựng.
+
+#### Ngày 46-48: Structural Design Patterns
+- **Lý thuyết**:
+  - Mẫu thiết kế cấu trúc: Adapter, Composite, Decorator.
+- **Bài tập**: Viết chương trình sử dụng các mẫu thiết kế cấu trúc.
+
+#### Ngày 49-50: Behavioral Design Patterns
+- **Lý thuyết**:
+  - Mẫu thiết kế hành vi: Observer, Strategy, Command.
+- **Bài tập**: Viết chương trình sử dụng các mẫu thiết kế hành vi.
+
+### Phần 9: Debug và Các công cụ Debug
+
+#### Ngày 51-54: Giới thiệu về Debugging
+- **Lý thuyết**:
+  - Khái niệm debugging.
+  - Các kỹ thuật debug cơ bản.
+- **Bài tập**: 
+  - Sử dụng `cout` để debug các chương trình đơn giản.
+
+#### Ngày 55-58: Sử dụng công cụ Debug
+- **Lý thuyết**:
+  - Công cụ debug phổ biến: GDB, LLDB, Visual Studio Debugger.
+  - Cách sử dụng các công cụ này.
+- **Bài tập**: 
+  - Debug các chương trình phức tạp hơn sử dụng GDB hoặc Visual Studio Debugger.
+
+### Phần 10: Công cụ Build và Quản lý Thư viện
+
+#### Ngày 59-62: Công cụ Build hệ thống
+- **Lý thuyết**:
+  - Công cụ build phổ biến: Makefile, CMake.
+  - Cách tạo file build cho dự án C++.
+- **Bài tập**: 
+  - Tạo file `Makefile` và `CMakeLists.txt` cho một dự án C++ đơn giản.
+
+#### Ngày 63-66: Quản lý Thư viện
+- **Lý thuyết**:
+  - Công cụ quản lý thư viện: Conan, vcpkg, NuGet.
+  - Cách tích hợp thư viện bên ngoài vào dự án.
+- **Bài tập**: 
+  - Sử dụng Conan hoặc vcpkg để quản lý và tích hợp thư viện như Boost vào một dự án.
+
+### Phần 11: Tổng hợp và Ôn tập
+
+#### Ngày 67-70: Tổng hợp kiến thức và dự án cuối khóa
+- **Lý thuyết**:
+  - Ôn tập các kiến thức đã học.
+  - Phân tích và thiết kế dự án cuối khóa.
+- **Bài tập**: 
+  - Hoàn thành dự án cuối khóa tích hợp các kiến thức về lập trình hướng đối tượng, quản lý bộ nhớ, sử dụng thư viện, và mô hình thiết kế.

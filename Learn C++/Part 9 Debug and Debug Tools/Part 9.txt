@@ -1,0 +1,15 @@
+### Phần 9: Debug và Các công cụ Debug
+
+#### Ngày 51-54: Giới thiệu về Debugging
+- **Lý thuyết**:
+  - Khái niệm debugging.
+  - Các kỹ thuật debug cơ bản.
+- **Bài tập**: 
+  - Sử dụng `cout` để debug các chương trình đơn giản.
+
+#### Ngày 55-58: Sử dụng công cụ Debug
+- **Lý thuyết**:
+  - Công cụ debug phổ biến: GDB, LLDB, Visual Studio Debugger.
+  - Cách sử dụng các công cụ này.
+- **Bài tập**: 
+  - Debug các chương trình phức tạp hơn sử dụng GDB hoặc Visual Studio Debugger.

@@ -1,0 +1,19 @@
+## Phần 4: Các tính năng nâng cao của C++
+
+#### Ngày 20-21: Template và Generic Programming
+- **Lý thuyết**:
+  - Khái niệm template.
+  - Hàm và lớp template.
+- **Bài tập**: Viết hàm template cho các phép toán cơ bản và lớp template cho stack.
+
+#### Ngày 22-23: Exception Handling
+- **Lý thuyết**:
+  - Khái niệm xử lý ngoại lệ.
+  - Các từ khóa try, catch, throw.
+- **Bài tập**: Viết chương trình xử lý ngoại lệ khi chia cho số 0.
+
+#### Ngày 24-26: Smart Pointers và Quản lý bộ nhớ
+- **Lý thuyết**:
+  - Con trỏ thông minh: `unique_ptr`, `shared_ptr`, `weak_ptr`.
+  - Quản lý bộ nhớ và vòng đời đối tượng.
+- **Bài tập**: Viết chương trình quản lý đối tượng sử dụng con trỏ thông minh.

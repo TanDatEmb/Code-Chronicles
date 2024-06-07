@@ -1,0 +1,7 @@
+- **Vòng lặp for**: Lặp qua một chuỗi hoặc một đối tượng có thể lặp.
+  - Cú pháp: `for item in sequence: ... `
+- **Vòng lặp while**: Lặp lại một khối lệnh miễn là điều kiện là đúng.
+  - Cú pháp: `while condition: ... `
+- **Câu lệnh break**: Dừng vòng lặp ngay lập tức.
+- **Câu lệnh continue**: Bỏ qua lần lặp hiện tại và tiếp tục vòng lặp.
+- **Câu lệnh pass**: Không làm gì, chỉ để giữ cú pháp hợp lệ.

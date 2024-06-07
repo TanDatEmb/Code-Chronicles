@@ -1,0 +1,12 @@
+### Phần 5: Thư viện chuẩn C++ và STL
+
+#### Ngày 27-28: Containers
+- **Lý thuyết**:
+  - Các loại container trong STL: vector, list, map, set.
+- **Bài tập**: Viết chương trình sử dụng các container để quản lý danh sách sinh viên và điểm số.
+
+#### Ngày 29-30: Iterators và Algorithms
+- **Lý thuyết**:
+  - Bộ lặp trong STL.
+  - Các thuật toán phổ biến trong STL.
+- **Bài tập**: Viết chương trình sử dụng iterators và algorithms để sắp xếp và tìm kiếm trong container.

@@ -1,0 +1,202 @@
+### Tổng quan lộ trình:
+
+- **Phần 1: Cơ bản về Python** (Ngày 1-12)
+- **Phần 2: Lập trình hướng đối tượng (OOP)** (Ngày 13-27)
+- **Phần 3: Cấu trúc dữ liệu và Thuật toán** (Ngày 28-45)
+- **Phần 4: Học framework và kiểm thử** (Ngày 46-63)
+- **Phần 5: Chuyên sâu và Dự án** (Ngày 64-80)
+
+## Phần 1: Cơ bản về Python
+
+### Ngày 1-3: Giới thiệu về Python
+- **Lý thuyết**:
+  - Khái niệm cơ bản về Python.
+  - Lý do nên học Python.
+  - Cài đặt Python và môi trường làm việc.
+  - Giới thiệu về các công cụ như Jupyter Notebook, PyCharm, VSCode.
+- **Bài tập**: Viết chương trình Python đơn giản in ra "Hello, World!".
+
+### Ngày 4-6: Các phép toán cơ bản và biến
+- **Lý thuyết**:
+  - Các phép toán số học: cộng, trừ, nhân, chia, chia lấy dư, lũy thừa.
+  - Biến và cách khai báo biến trong Python.
+  - Quy tắc đặt tên biến.
+  - Kiểu dữ liệu cơ bản: số nguyên, số thực, chuỗi.
+- **Bài tập**: Tạo các biến khác nhau và thực hiện các phép toán cơ bản trên chúng.
+
+### Ngày 7-9: Kiểu dữ liệu và cấu trúc điều kiện
+- **Lý thuyết**:
+  - Các kiểu dữ liệu: list, tuple, set, dictionary.
+  - Các cấu trúc điều kiện: if, elif, else.
+  - Các phép so sánh: ==, !=, >, <, >=, <=.
+- **Bài tập**: Viết chương trình kiểm tra số chẵn/lẻ, kiểm tra năm nhuận.
+
+### Ngày 10-12: Vòng lặp
+- **Lý thuyết**:
+  - Vòng lặp for và while.
+  - Câu lệnh break, continue, pass.
+- **Bài tập**: Viết chương trình tính tổng các số từ 1 đến 100, in bảng cửu chương.
+
+## Phần 2: Lập trình hướng đối tượng (OOP)
+
+### Ngày 13-14: Khái niệm cơ bản về OOP
+- **Lý thuyết**:
+  - Khái niệm lớp và đối tượng.
+  - Tính đóng gói và tính trừu tượng.
+  - Các phương thức khởi tạo (constructor) và phương thức hủy (destructor).
+- **Bài tập**: Viết lớp `Student` với các thuộc tính và phương thức cơ bản. Viết chương trình quản lý danh sách sinh viên.
+
+### Ngày 15-16: Tính kế thừa
+- **Lý thuyết**:
+  - Khái niệm kế thừa.
+  - Các loại kế thừa: đơn, đa kế thừa.
+  - Sử dụng super() để gọi phương thức từ lớp cha.
+- **Bài tập**: Viết lớp kế thừa từ lớp `Student` để tạo lớp `GraduateStudent`. Viết chương trình quản lý danh sách sinh viên và sinh viên tốt nghiệp.
+
+### Ngày 17-18: Tính đa hình và nạp chồng
+- **Lý thuyết**:
+  - Khái niệm đa hình.
+  - Phương thức ảo (override method).
+  - Nạp chồng hàm và toán tử.
+- **Bài tập**: Viết chương trình sử dụng đa hình và nạp chồng để quản lý hình học (hình tròn, hình chữ nhật). Viết chương trình mô phỏng các loại động vật với phương thức `speak`.
+
+### Ngày 19-21: List comprehensions và lambda
+- **Lý thuyết**:
+  - List comprehensions.
+  - Lambda function.
+  - Hàm map(), filter(), reduce().
+- **Bài tập**: Viết chương trình sử dụng list comprehensions để tạo danh sách số chẵn, sử dụng lambda để sắp xếp danh sách.
+
+### Ngày 22-24: Decorators và Regular Expressions
+- **Lý thuyết**:
+  - Decorators: Khái niệm và cách sử dụng.
+  - Regular Expressions (RegEx): Giới thiệu và cách sử dụng.
+- **Bài tập**: Viết decorators cho logging, sử dụng RegEx để kiểm tra định dạng email.
+
+### Ngày 25-27: Custom Modules
+- **Lý thuyết**:
+  - Cách tạo và sử dụng custom modules.
+  - Tái sử dụng mã nguồn qua modules.
+- **Bài tập**: Tạo và sử dụng một custom module để quản lý thông tin nhân viên.
+
+## Phần 3: Cấu trúc dữ liệu và Thuật toán
+
+### Ngày 28-30: Danh sách và mảng
+- **Lý thuyết**:
+  - Khái niệm về danh sách và mảng.
+  - Các thao tác trên danh sách: thêm, xóa, sửa, tìm kiếm.
+  - Giới thiệu về numpy để làm việc với mảng.
+- **Bài tập**: Viết chương trình quản lý danh sách học sinh, sử dụng numpy để tính toán các phép toán trên mảng.
+
+### Ngày 31-33: Đệ quy và các thuật toán sắp xếp
+- **Lý thuyết**:
+  - Khái niệm về đệ quy.
+  - Các thuật toán sắp xếp: sắp xếp nổi bọt, sắp xếp chọn, sắp xếp chèn.
+  - Giới thiệu về quicksort và mergesort.
+- **Bài tập**: Viết hàm đệ quy tính dãy Fibonacci, sắp xếp danh sách số bằng thuật toán sắp xếp nổi bọt và quicksort.
+
+### Ngày 34-36: Heaps, Stacks, and Queues
+- **Lý thuyết**:
+  - Khái niệm và ứng dụng của Heaps, Stacks, và Queues.
+  - Implementations trong Python.
+- **Bài tập**: Viết chương trình sử dụng heap để sắp xếp, sử dụng stack và queue cho các bài toán khác nhau.
+
+### Ngày 37-39: Hash Tables và Binary Search Trees
+- **Lý thuyết**:
+  - Hash Tables: Khái niệm, cách hoạt động, ứng dụng.
+  - Binary Search Trees: Khái niệm, các thao tác cơ bản.
+- **Bài tập**: Implement hash table và binary search tree trong Python.
+
+### Ngày 40-42: Iterators và Generators
+- **Lý thuyết**:
+  - Iterator protocol.
+  - Custom iterators.
+  - Generators và generator expressions.
+- **Bài tập**: Viết custom iterator và generator cho các chuỗi Fibonacci.
+
+### Ngày 43-45: Advanced Data Structures
+- **Lý thuyết**:
+  - Red-Black Trees
+  - AVL Trees
+  - Graphs and Graph Algorithms
+- **Bài tập**: Implement các cấu trúc dữ liệu nâng cao, viết chương trình tìm kiếm đường đi trong đồ thị.
+
+## Phần 4: Học framework và kiểm thử
+
+### Ngày 46-48: Học framework (Django/Flask)
+- **Lý thuyết**:
+  - Giới thiệu về framework Django hoặc Flask.
+  - Cài đặt và thiết lập dự án ban đầu.
+  - Cấu trúc dự án trong Django/Flask.
+  - Xây dựng một ứng dụng web cơ bản.
+- **Bài tập**: Tạo một trang web đơn giản hiển thị thông tin cá nhân, thêm chức năng đăng nhập, đăng ký người dùng.
+
+### Ngày 49-51: Asynchronous Programming
+- **Lý thuyết**:
+  - Giới thiệu về lập trình bất đồng bộ.
+  - Các thư viện và framework: gevent, aiohttp, Tornado, Sanic, FastAPI.
+- **Bài tập**: Viết một ứng dụng web đơn giản sử dụng FastAPI.
+
+### Ngày 52-54: Package Managers
+- **Lý thuyết**:
+  - PyPI, Pip, Conda: Giới thiệu và cách sử dụng.
+- **Bài tập**: Cài đặt và sử dụng các package khác nhau trong dự án Python.
+
+### Ngày 55-57: Testing Tools
+- **Lý thuyết**:
+  - unittest/pyUnit, pytest, doctest, nose: Giới thiệu và cách sử dụng.
+- **Bài tập**: Viết test case sử dụng các công cụ kiểm thử khác nhau.
+
+### Ngày 58-60: Debugging và tối ưu hóa mã
+- **Lý thuyết**:
+  - Khái niệm về debugging.
+  - Sử dụng công cụ debugging của IDE.
+  - Tối ưu hóa mã: phân tích hiệu năng và tối ưu hóa.
+- **Bài tập**: Debug một chương trình lỗi, tối ưu hóa thuật toán sắp xếp.
+
+### Ngày 61-63: Synchronous Programming
+- **Lý thuyết**:
+  - Giới thiệu về lập trình đồng bộ.
+  - So sánh giữa lập trình đồng bộ và bất đồng bộ.
+  - Các thư viện và framework phổ biến.
+- **Bài tập**: Viết một ứng dụng sử dụng lập trình đồng bộ.
+
+## Phần 5: Chuyên sâu và Dự án
+
+### Ngày 64-66: Làm việc với cơ sở dữ liệu
+- **Lý thuyết**:
+  - Giới thiệu về cơ sở dữ liệu: SQL và NoSQL.
+  - Kết nối Python với cơ sở dữ liệu: SQLite, MySQL, PostgreSQL.
+  - ORM (Object-Relational Mapping) với SQLAlchemy và Django ORM.
+- **Bài tập**: Xây dựng ứng dụng quản lý thư viện với cơ sở dữ liệu SQLite, sử dụng Django ORM để thao tác dữ liệu.
+
+### Ngày 67-69: Xử lý file và dữ liệu
+- **Lý thuyết**:
+  - Đọc/ghi file văn bản và file nhị phân.
+  - Xử lý dữ liệu JSON và CSV.
+  - Làm việc với API và dữ liệu web.
+- **Bài tập**: Viết chương trình đọc và phân tích dữ liệu từ file CSV, gọi API để lấy dữ liệu thời tiết.
+
+### Ngày 70-72: Làm việc với dữ liệu lớn và xử lý song song
+- **Lý thuyết**:
+  - Giới thiệu về dữ liệu lớn và xử lý song song.
+  - Làm việc với Pandas để xử lý dữ liệu lớn.
+  - Sử dụng multiprocessing và threading.
+- **Bài tập**: Phân tích dữ liệu lớn với Pandas, sử dụng multiprocessing để tăng tốc độ xử lý.
+
+### Ngày 73-75: DevOps và Quản lý dự án
+- **Lý thuyết**:
+  - Giới thiệu về Git và GitHub.
+  - Các thao tác cơ bản với Git: clone, commit, push, pull.
+  - Giới thiệu về CI/CD và các công cụ phổ biến: Jenkins, GitHub Actions.
+  - Giới thiệu về Docker.
+  - Tạo và sử dụng Docker containers.
+  - Quản lý môi trường với Docker Compose.
+- **Bài tập**: Tạo repository Git và quản lý mã nguồn của dự án. Thiết lập CI/CD pipeline đơn giản với GitHub Actions. Tạo Dockerfile và build image cho ứng dụng web. Sử dụng Docker Compose để quản lý các dịch vụ trong dự án.
+
+### Ngày 76-80: Dự án thực tế
+- **Lý thuyết**:
+  - Lập kế hoạch và phân chia công việc cho dự án.
+  - Sử dụng Git và GitHub để quản lý mã nguồn.
+  - Triển khai dự án lên server.
+- **Bài tập**: Thực hiện một dự án hoàn chỉnh từ đầu đến cuối, ví dụ: hệ thống quản lý học sinh, ứng dụng ghi chú, trang web cá nhân.

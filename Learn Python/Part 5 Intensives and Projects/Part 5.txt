@@ -1,0 +1,39 @@
+## Phần 5: Chuyên sâu và Dự án
+
+### Ngày 64-66: Làm việc với cơ sở dữ liệu
+- **Lý thuyết**:
+  - Giới thiệu về cơ sở dữ liệu: SQL và NoSQL.
+  - Kết nối Python với cơ sở dữ liệu: SQLite, MySQL, PostgreSQL.
+  - ORM (Object-Relational Mapping) với SQLAlchemy và Django ORM.
+- **Bài tập**: Xây dựng ứng dụng quản lý thư viện với cơ sở dữ liệu SQLite, sử dụng Django ORM để thao tác dữ liệu.
+
+### Ngày 67-69: Xử lý file và dữ liệu
+- **Lý thuyết**:
+  - Đọc/ghi file văn bản và file nhị phân.
+  - Xử lý dữ liệu JSON và CSV.
+  - Làm việc với API và dữ liệu web.
+- **Bài tập**: Viết chương trình đọc và phân tích dữ liệu từ file CSV, gọi API để lấy dữ liệu thời tiết.
+
+### Ngày 70-72: Làm việc với dữ liệu lớn và xử lý song song
+- **Lý thuyết**:
+  - Giới thiệu về dữ liệu lớn và xử lý song song.
+  - Làm việc với Pandas để xử lý dữ liệu lớn.
+  - Sử dụng multiprocessing và threading.
+- **Bài tập**: Phân tích dữ liệu lớn với Pandas, sử dụng multiprocessing để tăng tốc độ xử lý.
+
+### Ngày 73-75: DevOps và Quản lý dự án
+- **Lý thuyết**:
+  - Giới thiệu về Git và GitHub.
+  - Các thao tác cơ bản với Git: clone, commit, push, pull.
+  - Giới thiệu về CI/CD và các công cụ phổ biến: Jenkins, GitHub Actions.
+  - Giới thiệu về Docker.
+  - Tạo và sử dụng Docker containers.
+  - Quản lý môi trường với Docker Compose.
+- **Bài tập**: Tạo repository Git và quản lý mã nguồn của dự án. Thiết lập CI/CD pipeline đơn giản với GitHub Actions. Tạo Dockerfile và build image cho ứng dụng web. Sử dụng Docker Compose để quản lý các dịch vụ trong dự án.
+
+### Ngày 76-80: Dự án thực tế
+- **Lý thuyết**:
+  - Lập kế hoạch và phân chia công việc cho dự án.
+  - Sử dụng Git và GitHub để quản lý mã nguồn.
+  - Triển khai dự án lên server.
+- **Bài tập**: Thực hiện một dự án hoàn chỉnh từ đầu đến cuối, ví dụ: hệ thống quản lý học sinh, ứng dụng ghi chú, trang web cá nhân.

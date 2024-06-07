@@ -1,0 +1,15 @@
+### Phần 10: Công cụ Build và Quản lý Thư viện
+
+#### Ngày 59-62: Công cụ Build hệ thống
+- **Lý thuyết**:
+  - Công cụ build phổ biến: Makefile, CMake.
+  - Cách tạo file build cho dự án C++.
+- **Bài tập**: 
+  - Tạo file `Makefile` và `CMakeLists.txt` cho một dự án C++ đơn giản.
+
+#### Ngày 63-66: Quản lý Thư viện
+- **Lý thuyết**:
+  - Công cụ quản lý thư viện: Conan, vcpkg, NuGet.
+  - Cách tích hợp thư viện bên ngoài vào dự án.
+- **Bài tập**: 
+  - Sử dụng Conan hoặc vcpkg để quản lý và tích hợp thư viện như Boost vào một dự án.

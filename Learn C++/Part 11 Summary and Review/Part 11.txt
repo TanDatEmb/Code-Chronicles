@@ -1,0 +1,8 @@
+### Phần 11: Tổng hợp và Ôn tập
+
+#### Ngày 67-70: Tổng hợp kiến thức và dự án cuối khóa
+- **Lý thuyết**:
+  - Ôn tập các kiến thức đã học.
+  - Phân tích và thiết kế dự án cuối khóa.
+- **Bài tập**: 
+  - Hoàn thành dự án cuối khóa tích hợp các kiến thức về lập trình hướng đối tượng, quản lý bộ nhớ, sử dụng thư viện, và mô hình thiết kế.

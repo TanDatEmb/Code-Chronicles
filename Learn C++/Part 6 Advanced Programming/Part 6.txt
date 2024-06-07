@@ -1,0 +1,20 @@
+### Phần 6: Lập trình nâng cao
+
+#### Ngày 31-33: Lập trình hàm (Functional Programming)
+- **Lý thuyết**:
+  - Khái niệm lập trình hàm.
+  - Lambda expressions.
+  - Hàm higher-order.
+- **Bài tập**: Viết chương trình sử dụng lambda expressions để xử lý dữ liệu trong vector.
+
+#### Ngày 34-35: Multithreading và Concurrency
+- **Lý thuyết**:
+  - Lập trình đa luồng.
+  - Quản lý thread và đồng bộ hóa.
+- **Bài tập**: Viết chương trình sử dụng nhiều thread để thực hiện tính toán song song.
+
+#### Ngày 36-38: Metaprogramming và Template Metaprogramming (TMP)
+- **Lý thuyết**:
+  - Khái niệm metaprogramming.
+  - TMP trong C++.
+- **Bài tập**: Viết chương trình sử dụng TMP để tạo ra các hàm tính toán compile-time.

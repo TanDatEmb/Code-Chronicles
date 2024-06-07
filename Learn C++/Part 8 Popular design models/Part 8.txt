@@ -1,0 +1,16 @@
+## Phần 8: Các mô hình thiết kế phổ biến
+
+#### Ngày 43-45: Creational Design Patterns
+- **Lý thuyết**:
+  - Mẫu thiết kế tạo dựng: Singleton, Factory, Abstract Factory.
+- **Bài tập**: Viết chương trình sử dụng các mẫu thiết kế tạo dựng.
+
+#### Ngày 46-48: Structural Design Patterns
+- **Lý thuyết**:
+  - Mẫu thiết kế cấu trúc: Adapter, Composite, Decorator.
+- **Bài tập**: Viết chương trình sử dụng các mẫu thiết kế cấu trúc.
+
+#### Ngày 49-50: Behavioral Design Patterns
+- **Lý thuyết**:
+  - Mẫu thiết kế hành vi: Observer, Strategy, Command.
+- **Bài tập**: Viết chương trình sử dụng các mẫu thiết kế hành vi.

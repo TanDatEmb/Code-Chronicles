@@ -1,0 +1,12 @@
+### Phần 7: Hoàn thiện và nâng cao
+
+#### Ngày 39-40: Thiết kế Hướng đối tượng và Nguyên lý SOLID
+- **Lý thuyết**:
+  - Nguyên lý SOLID.
+  - Các nguyên lý thiết kế phần mềm.
+- **Bài tập**: Viết chương trình áp dụng nguyên lý SOLID vào một dự án nhỏ.
+
+#### Ngày 41-42: Thiết kế Mẫu (Design Patterns)
+- **Lý thuyết**:
+  - Các mẫu thiết kế phổ biến: Singleton, Factory, Observer.
+- **Bài tập**: Viết chương trình sử dụng các mẫu thiết kế để giải quyết các bài toán cụ thể.

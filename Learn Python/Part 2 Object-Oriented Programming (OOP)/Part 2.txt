@@ -1,0 +1,41 @@
+## Phần 2: Lập trình hướng đối tượng (OOP)
+
+### Ngày 13-14: Khái niệm cơ bản về OOP
+- **Lý thuyết**:
+  - Khái niệm lớp và đối tượng.
+  - Tính đóng gói và tính trừu tượng.
+  - Các phương thức khởi tạo (constructor) và phương thức hủy (destructor).
+- **Bài tập**: Viết lớp `Student` với các thuộc tính và phương thức cơ bản. Viết chương trình quản lý danh sách sinh viên.
+
+### Ngày 15-16: Tính kế thừa
+- **Lý thuyết**:
+  - Khái niệm kế thừa.
+  - Các loại kế thừa: đơn, đa kế thừa.
+  - Sử dụng super() để gọi phương thức từ lớp cha.
+- **Bài tập**: Viết lớp kế thừa từ lớp `Student` để tạo lớp `GraduateStudent`. Viết chương trình quản lý danh sách sinh viên và sinh viên tốt nghiệp.
+
+### Ngày 17-18: Tính đa hình và nạp chồng
+- **Lý thuyết**:
+  - Khái niệm đa hình.
+  - Phương thức ảo (override method).
+  - Nạp chồng hàm và toán tử.
+- **Bài tập**: Viết chương trình sử dụng đa hình và nạp chồng để quản lý hình học (hình tròn, hình chữ nhật). Viết chương trình mô phỏng các loại động vật với phương thức `speak`.
+
+### Ngày 19-21: List comprehensions và lambda
+- **Lý thuyết**:
+  - List comprehensions.
+  - Lambda function.
+  - Hàm map(), filter(), reduce().
+- **Bài tập**: Viết chương trình sử dụng list comprehensions để tạo danh sách số chẵn, sử dụng lambda để sắp xếp danh sách.
+
+### Ngày 22-24: Decorators và Regular Expressions
+- **Lý thuyết**:
+  - Decorators: Khái niệm và cách sử dụng.
+  - Regular Expressions (RegEx): Giới thiệu và cách sử dụng.
+- **Bài tập**: Viết decorators cho logging, sử dụng RegEx để kiểm tra định dạng email.
+
+### Ngày 25-27: Custom Modules
+- **Lý thuyết**:
+  - Cách tạo và sử dụng custom modules.
+  - Tái sử dụng mã nguồn qua modules.
+- **Bài tập**: Tạo và sử dụng một custom module để quản lý thông tin nhân viên.

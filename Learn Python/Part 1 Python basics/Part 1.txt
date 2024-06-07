@@ -1,0 +1,30 @@
+## Phần 1: Cơ bản về Python
+
+### Ngày 1-3: Giới thiệu về Python
+- **Lý thuyết**:
+  - Khái niệm cơ bản về Python.
+  - Lý do nên học Python.
+  - Cài đặt Python và môi trường làm việc.
+  - Giới thiệu về các công cụ như Jupyter Notebook, PyCharm, VSCode.
+- **Bài tập**: Viết chương trình Python đơn giản in ra "Hello, World!".
+
+### Ngày 4-6: Các phép toán cơ bản và biến
+- **Lý thuyết**:
+  - Các phép toán số học: cộng, trừ, nhân, chia, chia lấy dư, lũy thừa.
+  - Biến và cách khai báo biến trong Python.
+  - Quy tắc đặt tên biến.
+  - Kiểu dữ liệu cơ bản: số nguyên, số thực, chuỗi.
+- **Bài tập**: Tạo các biến khác nhau và thực hiện các phép toán cơ bản trên chúng.
+
+### Ngày 7-9: Kiểu dữ liệu và cấu trúc điều kiện
+- **Lý thuyết**:
+  - Các kiểu dữ liệu: list, tuple, set, dictionary.
+  - Các cấu trúc điều kiện: if, elif, else.
+  - Các phép so sánh: ==, !=, >, <, >=, <=.
+- **Bài tập**: Viết chương trình kiểm tra số chẵn/lẻ, kiểm tra năm nhuận.
+
+### Ngày 10-12: Vòng lặp
+- **Lý thuyết**:
+  - Vòng lặp for và while.
+  - Câu lệnh break, continue, pass.
+- **Bài tập**: Viết chương trình tính tổng các số từ 1 đến 100, in bảng cửu chương.

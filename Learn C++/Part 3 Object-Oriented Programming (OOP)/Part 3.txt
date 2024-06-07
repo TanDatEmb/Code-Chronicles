@@ -1,0 +1,20 @@
+### Phần 3: Lập trình hướng đối tượng (OOP)
+
+#### Ngày 13-14: Khái niệm cơ bản về OOP
+- **Lý thuyết**:
+  - Khái niệm lớp và đối tượng.
+  - Tính đóng gói và tính trừu tượng.
+- **Bài tập**: Viết lớp `Student` với các thuộc tính và phương thức cơ bản.
+
+#### Ngày 15-16: Tính kế thừa
+- **Lý thuyết**:
+  - Khái niệm kế thừa.
+  - Các loại kế thừa: đơn, đa kế thừa.
+- **Bài tập**: Viết lớp kế thừa từ lớp `Student` để tạo lớp `GraduateStudent`.
+
+#### Ngày 17-19: Tính đa hình và nạp chồng
+- **Lý thuyết**:
+  - Khái niệm đa hình.
+  - Hàm ảo và lớp trừu tượng.
+  - Nạp chồng hàm và toán tử.
+- **Bài tập**: Viết chương trình sử dụng đa hình và nạp chồng để quản lý hình học (hình tròn, hình chữ nhật).

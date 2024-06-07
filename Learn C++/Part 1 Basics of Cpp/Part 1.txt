@@ -1,0 +1,20 @@
+### Phần 1: Cơ bản về C++
+
+#### Ngày 1-2: Giới thiệu về C++
+- **Lý thuyết**: 
+  - Khái niệm cơ bản về C++.
+  - Lý do nên học C++.
+  - So sánh C và C++.
+- **Bài tập**: Viết chương trình C++ đơn giản in ra "Hello, World!".
+
+#### Ngày 3-4: Các phép toán cơ bản và biến
+- **Lý thuyết**:
+  - Biến và kiểu dữ liệu.
+  - Toán tử số học và gán.
+- **Bài tập**: Viết chương trình tính toán cơ bản như cộng, trừ, nhân, chia.
+
+#### Ngày 5-6: Cấu trúc điều khiển
+- **Lý thuyết**:
+  - Cấu trúc điều kiện: if, else if, else.
+  - Vòng lặp: for, while, do-while.
+- **Bài tập**: Viết chương trình kiểm tra số nguyên tố và tính tổng các số từ 1 đến n.

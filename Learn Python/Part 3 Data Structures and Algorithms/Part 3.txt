@@ -1,0 +1,41 @@
+## Phần 3: Cấu trúc dữ liệu và Thuật toán
+
+### Ngày 28-30: Danh sách và mảng
+- **Lý thuyết**:
+  - Khái niệm về danh sách và mảng.
+  - Các thao tác trên danh sách: thêm, xóa, sửa, tìm kiếm.
+  - Giới thiệu về numpy để làm việc với mảng.
+- **Bài tập**: Viết chương trình quản lý danh sách học sinh, sử dụng numpy để tính toán các phép toán trên mảng.
+
+### Ngày 31-33: Đệ quy và các thuật toán sắp xếp
+- **Lý thuyết**:
+  - Khái niệm về đệ quy.
+  - Các thuật toán sắp xếp: sắp xếp nổi bọt, sắp xếp chọn, sắp xếp chèn.
+  - Giới thiệu về quicksort và mergesort.
+- **Bài tập**: Viết hàm đệ quy tính dãy Fibonacci, sắp xếp danh sách số bằng thuật toán sắp xếp nổi bọt và quicksort.
+
+### Ngày 34-36: Heaps, Stacks, and Queues
+- **Lý thuyết**:
+  - Khái niệm và ứng dụng của Heaps, Stacks, và Queues.
+  - Implementations trong Python.
+- **Bài tập**: Viết chương trình sử dụng heap để sắp xếp, sử dụng stack và queue cho các bài toán khác nhau.
+
+### Ngày 37-39: Hash Tables và Binary Search Trees
+- **Lý thuyết**:
+  - Hash Tables: Khái niệm, cách hoạt động, ứng dụng.
+  - Binary Search Trees: Khái niệm, các thao tác cơ bản.
+- **Bài tập**: Implement hash table và binary search tree trong Python.
+
+### Ngày 40-42: Iterators và Generators
+- **Lý thuyết**:
+  - Iterator protocol.
+  - Custom iterators.
+  - Generators và generator expressions.
+- **Bài tập**: Viết custom iterator và generator cho các chuỗi Fibonacci.
+
+### Ngày 43-45: Advanced Data Structures
+- **Lý thuyết**:
+  - Red-Black Trees
+  - AVL Trees
+  - Graphs and Graph Algorithms
+- **Bài tập**: Implement các cấu trúc dữ liệu nâng cao, viết chương trình tìm kiếm đường đi trong đồ thị.

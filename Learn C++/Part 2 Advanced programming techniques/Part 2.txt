@@ -1,0 +1,22 @@
+### Phần 2: Kỹ thuật lập trình nâng cao
+
+#### Ngày 7-8: Hàm và phạm vi
+- **Lý thuyết**:
+  - Khai báo và định nghĩa hàm.
+  - Tham số và giá trị trả về.
+  - Phạm vi biến và phạm vi hàm.
+- **Bài tập**: Viết chương trình sử dụng hàm để tính giai thừa và Fibonacci.
+
+#### Ngày 9-10: Con trỏ và mảng
+- **Lý thuyết**:
+  - Khái niệm con trỏ.
+  - Các thao tác cơ bản với con trỏ.
+  - Mảng và con trỏ.
+- **Bài tập**: Viết chương trình quản lý danh sách sinh viên sử dụng mảng và con trỏ.
+
+#### Ngày 11-12: Chuỗi ký tự và thư viện chuẩn
+- **Lý thuyết**:
+  - Chuỗi ký tự trong C++.
+  - Các hàm thao tác với chuỗi.
+  - Thư viện chuẩn C++.
+- **Bài tập**: Viết chương trình kiểm tra palindrome và đếm số lần xuất hiện của ký tự trong chuỗi.
